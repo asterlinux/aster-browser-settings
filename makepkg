@@ -1,0 +1,8 @@
+#!/bin/sh
+
+tar -cf settings.tar.gz settings/
+
+makepkg -s --sign
+
+rm -r settings.tar.gz
+rm -r pkg/ src/ 

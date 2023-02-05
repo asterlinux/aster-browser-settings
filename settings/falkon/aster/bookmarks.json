@@ -1,0 +1,51 @@
+{
+    "roots": {
+        "bookmark_bar": {
+            "children": [
+                {
+                    "type": "separator"
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Aster Linux",
+                    "type": "url",
+                    "url": "https://asterlinux.github.io/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Forum",
+                    "type": "url",
+                    "url": "https://asterlinux.github.io/form/",
+                    "visit_count": 0
+                }
+            ],
+            "description": "Bookmarks located in Bookmarks Toolbar",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Bookmarks Toolbar",
+            "type": "folder"
+        },
+        "bookmark_menu": {
+            "children": [
+            ],
+            "description": "Bookmarks located in Bookmarks Menu",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Bookmarks Menu",
+            "type": "folder"
+        },
+        "other": {
+            "children": [
+            ],
+            "description": "All other bookmarks",
+            "expanded": true,
+            "expanded_sidebar": true,
+            "name": "Unsorted Bookmarks",
+            "type": "folder"
+        }
+    },
+    "version": 1
+}
