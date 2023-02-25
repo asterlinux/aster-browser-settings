@@ -1,7 +1,7 @@
 # Maintainer: Sahan Rasanjana <sahan.user@gmail.com>
 
 pkgname=aster-browser-settings
-pkgver=20230204
+pkgver=20230225
 pkgrel=1
 pkgdesc="Aster Linux settings browser defaults"
 arch=('any')
